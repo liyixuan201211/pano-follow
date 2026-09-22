@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+._*
+
+# 运行时产物
+*.log
